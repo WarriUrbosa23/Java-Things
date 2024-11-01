@@ -1,4 +1,4 @@
-public class App {
+public class thing {
 
     public static void main(String ... args) {
      //   while (int i = 0; i < 10; i++;){

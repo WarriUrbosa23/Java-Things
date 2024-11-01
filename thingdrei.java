@@ -1,4 +1,4 @@
-public class App{
+public class thingdrei{
     
     public static void main(String ... args) 
     {
